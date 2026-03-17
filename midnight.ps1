@@ -1,9 +1,9 @@
 #
     MIDNIGHT AUDITOR – COMPACT BLACKOUT
     -----------------------------------
-    - Smaller UI Footprint
-    - Pure BlackWhite HUD
-    - Always On Top & Draggable
+    # Smaller UI Footprint
+    # Pure BlackWhite HUD
+    # Always On Top & Draggable
 #
 
 if ([Threading.Thread]CurrentThread.GetApartmentState() -ne 'STA') {
